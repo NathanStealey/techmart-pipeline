@@ -19,6 +19,8 @@ The functions in `src/techmart/` are deliberately minimal - the focus is the
 shape of the project, not the pipeline logic.
 
 ## Setup
+![Open Issues](https://img.shields.io/github/issues/NathanStealey/techmart-pipeline)
+
 
 ### Local Development
 
